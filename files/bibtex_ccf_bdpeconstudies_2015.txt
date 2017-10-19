@@ -1,0 +1,9 @@
+@article{crosignani_fariaecastro_fonseca_bullettin15,
+    author  = "Matteo Crosignani and Miguel Faria-e-Castro and Luís Fonseca",
+    title   = "The Portuguese Banking System During the Sovereign Debt Crisis",
+    year    = "2015”,
+    journal = "Banco de Portugal Economic Studies",
+    volume  = “1”,
+    number  = “2”,
+    pages   = “43-80”
+}

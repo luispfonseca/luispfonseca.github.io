@@ -1,0 +1,13 @@
+@article{crosignani_fariaecastro_fonseca_2020,
+	title = "The (Unintended?) consequences of the largest liquidity injection ever",
+	journal = "Journal of Monetary Economics",
+	volume = "112",
+	pages = "97 - 112",
+	year = "2020",
+	issn = "0304-3932",
+	doi = "https://doi.org/10.1016/j.jmoneco.2019.01.020",
+	url = "http://www.sciencedirect.com/science/article/pii/S0304393218302605",
+	author = "Matteo Crosignani and Miguel Faria-e-Castro and Luís Fonseca",
+	keywords = "Lender of Last Resort, Bank-Sovereign Nexus, Collateral, Sovereign Debt, Eurozone Crisis",
+	abstract = "The design of lender-of-last-resort interventions can exacerbate the bank-sovereign nexus. During sovereign crises, central bank provision of long-term liquidity incentivizes banks to purchase high-yield eligible collateral securities matching the maturity of the central bank loans. Using unique security-level data, we find that the European Central Bank’s 3-year Long-Term Refinancing Operation caused Portuguese banks to purchase short-term domestic government bonds, equivalent to 10.6% of amounts outstanding, and pledge them to obtain central bank liquidity. The steepening of eurozone peripheral sovereign yield curves right after the policy announcement is consistent with the equilibrium effects of this “collateral trade.”"
+}

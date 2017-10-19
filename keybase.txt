@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/luispfonseca
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://luispfonseca.com
+  * I am luispfonseca (https://keybase.io/luispfonseca) on keybase.
+  * I have a public key ASBe7dEyot6l-8EFsd_IbpRfevXkVKly_dzrOPk2aj90Ugo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a8697b2c4ec26cdbc62a6a1bcf64312e8528369a8a4b758b51f0d16d85935dfe0a",
+      "host": "keybase.io",
+      "kid": "01205eedd132a2dea5fbc105b1dfc86e945f7af5e454a972fddceb38f9366a3f74520a",
+      "uid": "39500eb1a7698e4c0981268f967b9a19",
+      "username": "luispfonseca"
+    },
+    "merkle_root": {
+      "ctime": 1546620410,
+      "hash": "a87503ad5446c35cad5992540ac7960053fee4af9149e4f8b820dfb497d97bd82295b3328a10ff2ef261dbda0955de97189fa6229898af4ed2ccddee0aafb204",
+      "hash_meta": "1852c7941c6b1454252ad3c68efaaf6c66711d423fc8739b85b708b1af55259b",
+      "seqno": 4231916
+    },
+    "service": {
+      "entropy": "4TkoqrR2JfOA8lZyUgI3dREC",
+      "hostname": "luispfonseca.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.3"
+  },
+  "ctime": 1546620422,
+  "expire_in": 504576000,
+  "prev": "4dbe44568010cbb797ea7c1506687323a02a80a8dfb8b2339077912d3b8ad313",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXu3RMqLepfvBBbHfyG6UX3r15FSpcv3c6zj5Nmo/dFIKp3BheWxvYWTESpcCDcQgTb5EVoAQy7eX6nwVBmhzI6AqgKjfuLIzkHeRLTuK0xPEILIEpmhTUidKoTDC5REX88tg0NAypsnLpuen+IP3pyb9AgHCo3NpZ8RAeGgsaIa6zHZCrfvTv3/o6ISD3WV32swDEzMcwYrCVNzg7aSp426JLRlzRJIzP51kzCBzN+3MdK40QszpdnJHDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKS9uEscLeoXBpecqgCFGcXM7pT9hTSNjNlmhG3AqNhEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/luispfonseca
+
+==================================================================
