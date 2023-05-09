@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Journal publications
+## Journal publications
 
 [**The (Unintended?) Consequences of the Largest Liquidity Injection Ever**](https://doi.org/10.1016/j.jmoneco.2019.01.020) <br>
 [Journal Website](https://doi.org/10.1016/j.jmoneco.2019.01.020), [Working Paper](/files/CCF.pdf), [Supplementary Material](/files/CCF_Supplementary_Material.pdf), [BibTeX](/files/bibtex_ccf_jme.bib)
