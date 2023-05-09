@@ -22,7 +22,6 @@ Co-authored with [Matteo Crosignani](http://matteocrosignani.com/) and [Miguel F
 
 **Journal of International Economics**, 2023 <br>
 Co-authored with [Katerina Nikalexi](https://twitter.com/knikalexi) and [Elias Papaioannou](https://sites.google.com/site/papaioannouelias/) <br>
-
 [CEPR Discussion Paper DP17861](https://cepr.org/publications/dp17861)
 
 **Abstract**: The internationalization of corporate control is a complex and poorly understood aspect of globalization, as it is challenging to trace controlling shareholders due to often opaque structures of ownership. We identify controlling shareholders for 22,000 listed firms to study the globalization of control. The network of international control appears very sparse, with strong home bias. A baseline gravity structure works well, as bilateral links are more potent for populous, affluent, and proximate countries. Institutions and tax haven status at source and destination play a modest role. Legal similarities, economic policy coordination, and cultural, linguistic, and historical ties play a non-negligible role telling of asset market and informational frictions; policy and legal similarities matter for financial institutions and banks, while informational/cultural barriers for individuals/families. International diversification motives play no major role. The results have implications for theoretical works on the internationalization of corporate control markets.
