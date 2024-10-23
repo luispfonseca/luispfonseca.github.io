@@ -4,6 +4,15 @@ title: Research
 permalink: /research/
 ---
 
+## Working papers
+
+[**A statistical approach to identifying ECB monetary policy**](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf) <br>
+
+**ECB Working Paper Series**, No 2994
+Co-authored with [Yıldız Akkaya](https://sites.google.com/site/yildizakkaya), [Lea Bitter](https://www.leabitter.com/), and [Claus Brand](https://www.ecb.europa.eu/pub/research/authors/profiles/claus-brand.en.html)
+
+**Abstract**: We construct monetary policy indicators from high-frequency asset price changes following policy announcements, emphasising the concentration of asset price responses along specific dimensions and their leptokurtic distribution. Traditionally, these dimensions are identified by rotating principal components based on economic assumptions that overlook information in excess kurtosis. We employ Varimax rotation, leveraging excess kurtosis without using economic restrictions. Within a set of euro-area risk-free assets Varimax validates policy news along dimensions previously derived from structural identification approaches and rejects evidence of macroinformation shocks. Yet, once adding risky assets Varimax identifies only one risk-free factor in medium- to long-term yields and instead points to additional risk-shift factors.
+
 ## Journal publications
 
 [**The (Unintended?) Consequences of the Largest Liquidity Injection Ever**](https://doi.org/10.1016/j.jmoneco.2019.01.020) <br>
