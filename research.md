@@ -8,7 +8,7 @@ permalink: /research/
 
 [**A statistical approach to identifying ECB monetary policy**](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf) <br>
 [Working Paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf), [Slides](files/ABBF_slides.pdf), [BibTeX](/files/bibtex_statisticalapproach.bib) <br>
-**ECB Working Paper Series**, No 2994 <br>
+**ECB Working Paper Series**, No 2994, 2024 <br>
 Co-authored with [Yıldız Akkaya](https://sites.google.com/site/yildizakkaya), [Lea Bitter](https://www.leabitter.com/), and [Claus Brand](https://www.ecb.europa.eu/pub/research/authors/profiles/claus-brand.en.html)
 <details><summary>Abstract</summary>
 We construct monetary policy indicators from high-frequency asset price changes following policy announcements, emphasising the concentration of asset price responses along specific dimensions and their leptokurtic distribution. Traditionally, these dimensions are identified by rotating principal components based on economic assumptions that overlook information in excess kurtosis. We employ Varimax rotation, leveraging excess kurtosis without using economic restrictions. Within a set of euro-area risk-free assets Varimax validates policy news along dimensions previously derived from structural identification approaches and rejects evidence of macroinformation shocks. Yet, once adding risky assets Varimax identifies only one risk-free factor in medium- to long-term yields and instead points to additional risk-shift factors.
@@ -44,7 +44,7 @@ The internationalization of corporate control is a complex and poorly understood
 
 <br>
 
-## Other articles
+## Other articles and policy notes
 
 [**The Portuguese Banking System During the Sovereign Debt Crisis**](/files/published_article_EN.pdf) <br>
 [Versão Portuguesa](/files/published_article_PT.pdf), [BibTeX](/files/bibtex_ccf_bdpeconstudies_2015.bib) <br>
@@ -54,4 +54,12 @@ Co-authored with [Matteo Crosignani](http://matteocrosignani.com/) and [Miguel F
 <details>
 <summary>Abstract</summary>
 We describe the evolution of balance sheets of monetary financial institutions (MFI) in Portugal before, during, and after the sovereign debt crisis of the late 2000’s. We account for several dimensions of heterogeneity including size, type, and nationality. We find that the Portuguese MFI sector rapidly expanded and increased its leverage before and during the crisis until 2012, after which it started a long deleveraging process. Many of the major aggregates, such as lending and deposits, follow this pattern. We observe a steady rise of non-traditional banking activities on both sides of the balance sheet of domestic institutions. The crisis weakened the international integration of the Portuguese financial sector, as domestic banks became less exposed to international counterparties. Finally, the Eurosystem and the Portuguese government have become relevant sources of funding as a result of the recent unprecedented monetary and fiscal interventions in the domestic financial system.
+</details>
+
+[**The inversion of the yield curve and its information content in the euro area and the United States**](https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202307_02~78906aa989.en.html) <br>
+**European Central Bank Economic Bulletin Boxes**, vol. 7., 2023 <br>
+Co-authored with [Peter McQuade](https://www.ecb.europa.eu/pub/research/authors/profiles/peter-mcquade.en.html), [Ine Van Robays](https://www.ecb.europa.eu/pub/research/authors/profiles/ine-van-robays.en.html), and [Andreea Liliana Vladu](https://www.ecb.europa.eu/pub/research/authors/profiles/andreea-liliana-vladu.en.html)
+<details>
+<summary>Abstract</summary>
+This box highlights the recent inversion of the euro area and US yield curves and considers its information content for the future state of these economies. The slope of the yield curve is currently negative and the most steeply inverted it has been in decades for both the euro area and the United States. Among other factors, a negative slope may reflect investors’ expectations that the macroeconomic outlook will worsen, inflation will decline and longer-term yields will be lower as growth slows. In the past, the slope has typically had statistical predictive power for economic downturns. Recent estimates based on this indicator point to a high probability of a recession in the next 12 months in both jurisdictions. However, estimated recession probabilities are considerably lower when the models include information from additional financial indicators and oil prices, and when they account for the yield impact of the balance sheet policies of central banks. The analysis therefore highlights that a simple translation of the current historically negative yield curve slopes into a high recession probability would be an incomplete assessment.
 </details>
