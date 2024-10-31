@@ -7,7 +7,7 @@ permalink: /research/
 ## Working papers
 
 [**A statistical approach to identifying ECB monetary policy**](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf) <br>
-[Slides](files/ABBF_slides.pdf) <br>
+[Working Paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf), [Slides](files/ABBF_slides.pdf), [BibTeX](/files/bibtex_statisticalapproach.bib) <br>
 **ECB Working Paper Series**, No 2994 <br>
 Co-authored with [Yıldız Akkaya](https://sites.google.com/site/yildizakkaya), [Lea Bitter](https://www.leabitter.com/), and [Claus Brand](https://www.ecb.europa.eu/pub/research/authors/profiles/claus-brand.en.html)
 
