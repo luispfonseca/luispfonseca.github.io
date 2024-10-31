@@ -10,8 +10,11 @@ permalink: /research/
 [Working Paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf), [Slides](files/ABBF_slides.pdf), [BibTeX](/files/bibtex_statisticalapproach.bib) <br>
 **ECB Working Paper Series**, No 2994 <br>
 Co-authored with [Yıldız Akkaya](https://sites.google.com/site/yildizakkaya), [Lea Bitter](https://www.leabitter.com/), and [Claus Brand](https://www.ecb.europa.eu/pub/research/authors/profiles/claus-brand.en.html)
+<details><summary>Abstract</summary>
+We construct monetary policy indicators from high-frequency asset price changes following policy announcements, emphasising the concentration of asset price responses along specific dimensions and their leptokurtic distribution. Traditionally, these dimensions are identified by rotating principal components based on economic assumptions that overlook information in excess kurtosis. We employ Varimax rotation, leveraging excess kurtosis without using economic restrictions. Within a set of euro-area risk-free assets Varimax validates policy news along dimensions previously derived from structural identification approaches and rejects evidence of macroinformation shocks. Yet, once adding risky assets Varimax identifies only one risk-free factor in medium- to long-term yields and instead points to additional risk-shift factors.
+</details>
 
-*Abstract*: We construct monetary policy indicators from high-frequency asset price changes following policy announcements, emphasising the concentration of asset price responses along specific dimensions and their leptokurtic distribution. Traditionally, these dimensions are identified by rotating principal components based on economic assumptions that overlook information in excess kurtosis. We employ Varimax rotation, leveraging excess kurtosis without using economic restrictions. Within a set of euro-area risk-free assets Varimax validates policy news along dimensions previously derived from structural identification approaches and rejects evidence of macroinformation shocks. Yet, once adding risky assets Varimax identifies only one risk-free factor in medium- to long-term yields and instead points to additional risk-shift factors.
+<br>
 
 ## Journal publications
 
@@ -22,16 +25,24 @@ Co-authored with [Matteo Crosignani](http://matteocrosignani.com/) and [Miguel F
 [SUERF/Unicredit & Universities Foundation Research Prize](https://www.suerf.org/suerf-unicredit-and-universities-foundation) <br>
 <!-- [AFA 2016](http://www.afajof.org/details/page/8357781/2016-Meeting-Program.html), [SED 2016](https://editorialexpress.com/conference/SED2016/program/SED2016.html), [CFIC 2017](https://www.eventbrite.com/e/chicago-financial-institutions-conference-2017-registration-27614554877) <br> -->
 [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine Zeitung](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)
+<details>
+<summary>Abstract</summary>
+The design of lender-of-last-resort interventions can exacerbate the bank-sovereign nexus. During sovereign crises, central bank provision of long-term liquidity incentivizes banks to purchase high-yield eligible collateral securities matching the maturity of the central bank loans. Using unique security-level data, we find that the European Central Bank’s 3-year Long-Term Refinancing Operation caused Portuguese banks to purchase short-term domestic government bonds, equivalent to 10.6% of amounts outstanding, and pledge them to obtain central bank liquidity. The steepening of eurozone peripheral sovereign yield curves right after the policy announcement is consistent with the equilibrium effects of this “collateral trade.”
+</details>
 
-*Abstract*: The design of lender-of-last-resort interventions can exacerbate the bank-sovereign nexus. During sovereign crises, central bank provision of long-term liquidity incentivizes banks to purchase high-yield eligible collateral securities matching the maturity of the central bank loans. Using unique security-level data, we find that the European Central Bank’s 3-year Long-Term Refinancing Operation caused Portuguese banks to purchase short-term domestic government bonds, equivalent to 10.6% of amounts outstanding, and pledge them to obtain central bank liquidity. The steepening of eurozone peripheral sovereign yield curves right after the policy announcement is consistent with the equilibrium effects of this “collateral trade.”
+<br>
 
 [**The Globalization of Corporate Control**](https://doi.org/10.1016/j.jinteco.2023.103754) <br>
 [Journal Website](https://doi.org/10.1016/j.jinteco.2023.103754), [Working Paper](/files/corp_control.pdf), [Supplementary Material](/files/corp_control_appendix.pdf), [BibTeX](/files/bibtext_corp_control.bib) <br>
 **Journal of International Economics**, 2023 <br>
 Co-authored with [Katerina Nikalexi](https://twitter.com/knikalexi) and [Elias Papaioannou](https://sites.google.com/site/papaioannouelias/) <br>
 [CEPR Discussion Paper DP17861](https://cepr.org/publications/dp17861)
+<details>
+<summary>Abstract</summary>
+The internationalization of corporate control is a complex and poorly understood aspect of globalization, as it is challenging to trace controlling shareholders due to often opaque structures of ownership. We identify controlling shareholders for 22,000 listed firms to study the globalization of control. The network of international control appears very sparse, with strong home bias. A baseline gravity structure works well, as bilateral links are more potent for populous, affluent, and proximate countries. Institutions and tax haven status at source and destination play a modest role. Legal similarities, economic policy coordination, and cultural, linguistic, and historical ties play a non-negligible role telling of asset market and informational frictions; policy and legal similarities matter for financial institutions and banks, while informational/cultural barriers for individuals/families. International diversification motives play no major role. The results have implications for theoretical works on the internationalization of corporate control markets.
+</details>
 
-*Abstract*: The internationalization of corporate control is a complex and poorly understood aspect of globalization, as it is challenging to trace controlling shareholders due to often opaque structures of ownership. We identify controlling shareholders for 22,000 listed firms to study the globalization of control. The network of international control appears very sparse, with strong home bias. A baseline gravity structure works well, as bilateral links are more potent for populous, affluent, and proximate countries. Institutions and tax haven status at source and destination play a modest role. Legal similarities, economic policy coordination, and cultural, linguistic, and historical ties play a non-negligible role telling of asset market and informational frictions; policy and legal similarities matter for financial institutions and banks, while informational/cultural barriers for individuals/families. International diversification motives play no major role. The results have implications for theoretical works on the internationalization of corporate control markets.
+<br>
 
 ## Other articles
 
@@ -40,5 +51,7 @@ Co-authored with [Katerina Nikalexi](https://twitter.com/knikalexi) and [Elias P
 **Banco de Portugal Economic Studies**, 1(2), July 2015, pp. 43-80<br>
 Co-authored with [Matteo Crosignani](http://matteocrosignani.com/) and [Miguel Faria-e-Castro](http://fariaecastro.net/) <br>
 [Deutsche Bundesbank President speech](https://www.bis.org/review/r151211b.htm)
-
-*Abstract*: We describe the evolution of balance sheets of monetary financial institutions (MFI) in Portugal before, during, and after the sovereign debt crisis of the late 2000’s. We account for several dimensions of heterogeneity including size, type, and nationality. We find that the Portuguese MFI sector rapidly expanded and increased its leverage before and during the crisis until 2012, after which it started a long deleveraging process. Many of the major aggregates, such as lending and deposits, follow this pattern. We observe a steady rise of non-traditional banking activities on both sides of the balance sheet of domestic institutions. The crisis weakened the international integration of the Portuguese financial sector, as domestic banks became less exposed to international counterparties. Finally, the Eurosystem and the Portuguese government have become relevant sources of funding as a result of the recent unprecedented monetary and fiscal interventions in the domestic financial system.
+<details>
+<summary>Abstract</summary>
+We describe the evolution of balance sheets of monetary financial institutions (MFI) in Portugal before, during, and after the sovereign debt crisis of the late 2000’s. We account for several dimensions of heterogeneity including size, type, and nationality. We find that the Portuguese MFI sector rapidly expanded and increased its leverage before and during the crisis until 2012, after which it started a long deleveraging process. Many of the major aggregates, such as lending and deposits, follow this pattern. We observe a steady rise of non-traditional banking activities on both sides of the balance sheet of domestic institutions. The crisis weakened the international integration of the Portuguese financial sector, as domestic banks became less exposed to international counterparties. Finally, the Eurosystem and the Portuguese government have become relevant sources of funding as a result of the recent unprecedented monetary and fiscal interventions in the domestic financial system.
+</details>
