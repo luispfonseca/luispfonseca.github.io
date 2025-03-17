@@ -4,8 +4,12 @@ title: Other
 permalink: /other/
 ---
 
+### Bayesian estimation with Stan (Hamiltonian Monte Carlo)
+
+I am interested and have experience estimating Bayesian econometric models with [Stan](https://mc-stan.org/). Reach out if you want to collaborate or share experiences.
+
 ### Version control with git
-I've written a deck of [slides](/files/slides_git.pdf) teaching economists and other social scientists how to do version control with [git](https://en.wikipedia.org/wiki/Git). I have taught these slides to LBS PhD students and at a [workshop hosted by Banco de Portugal](https://www.bportugal.pt/en/evento/workshop-reproducible-research-and-modern-data-analysis-concepts-skills-and-tools).
+I have written a deck of [slides](/files/slides_git.pdf) teaching economists and other social scientists how to do version control with [git](https://en.wikipedia.org/wiki/Git). I have taught these slides to LBS PhD students and at a [workshop hosted by Banco de Portugal](https://www.bportugal.pt/en/node/49383).
 
 
 ### This website
