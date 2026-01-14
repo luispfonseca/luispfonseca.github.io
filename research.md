@@ -16,10 +16,10 @@ We construct monetary policy indicators from high-frequency asset price changes 
 
 <br>
 
-[**Structural drivers of growth at risk: insights from a VAR-quantile regression approach**]([https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3171~f5e546b3fe.en.pdf?7b311ee30b937fc43438661e7158ca48)) <br>
-[Working Paper]([https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3171~f5e546b3fe.en.pdf?7b311ee30b937fc43438661e7158ca48)). <br>
+[**Structural drivers of growth at risk: insights from a VAR-quantile regression approach**](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3171~f5e546b3fe.en.pdf?7b311ee30b937fc43438661e7158ca48) <br>
+[Working Paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3171~f5e546b3fe.en.pdf?7b311ee30b937fc43438661e7158ca48) <br>
 **ECB Working Paper Series**, No 3171, 2026 <br>
-Co-authored with Giacomo Carboni, Fabio Fornari, and [Leonardo Urrutia](https://leonardo-urrutia.de/).
+Co-authored with Giacomo Carboni, Fabio Fornari, and [Leonardo Urrutia](https://leonardo-urrutia.de/)
 <details><summary>Abstract</summary>
 We investigate the impact of structural shocks on the joint distribution of future real GDP growth and inflation in the euro area. We model the conditional mean of these variables, along with selected financial indicators, using a VAR and perform quantile regressions on the VAR residuals to estimate their time-varying variance as a function of macroeconomic and financial variables. Through impulse response analysis, we find that demand and financial shocks reduce expected GDP growth and increase its conditional variance, leading to negatively skewed future growth distributions. By enabling this mean-volatility interaction, demand and financial shocks drive significant time variation in downside risk to euro area GDP growth, while supply shocks result in broadly symmetric movements. For inflation, supply shocks drive instead a positive mean-volatility co-movement, where higher inflation is associated with increased uncertainty, causing time variation in upside risk.
 </details>
