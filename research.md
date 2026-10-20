@@ -26,6 +26,16 @@ We investigate the impact of structural shocks on the joint distribution of futu
 
 <br>
 
+[**Inflation narratives and risk premia**](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3288~e05b586456.en.pdf?68452227b8fb602bad35e3f5b2b2c3aa) <br>
+[Working Paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3288~e05b586456.en.pdf?68452227b8fb602bad35e3f5b2b2c3aa) <br>
+**ECB Working Paper Series**, No 3288, 2026 <br>
+Co-authored with [Giulia Martorana](https://www.ecb.europa.eu/pub/research/authors/profiles/giulia-martorana.en.html), [Fabian Schupp](https://www.ecb.europa.eu/pub/research/authors/profiles/fabian-schupp.en.html), and [Giovanni Trebbi](https://sites.google.com/view/giovannitrebbi/).
+<details><summary>Abstract</summary>
+Theory suggests inflation risk premia are positive when supply shocks are expected to dominate demand shocks and negative otherwise. We measure these beliefs using demand and supply narratives derived from inflation news via Causality Extraction, which identifies causal relations between inflation and its drivers. Using narrative extracted from inflation news from the Financial Times for the Euro Area and the Wall Street Journal for the US, our key variable, NetDemand, measures the difference in articles attributing inflation to demand versus supply factors. Consistent with asset pricing theory, inflation risk premia are inversely related to NetDemand across maturities in both regions. This relationship holds even after controlling for the composite PMI and VIX, strengthens with risk aversion in the US and inflation volatility in the Euro Area, and is not subsumed by other measures of demand and supply contributions to inflation, views of professional forecasters, or narratives obtained from LLMs.
+</details>
+
+<br>
+
 ## Journal publications
 
 [**The (Unintended?) Consequences of the Largest Liquidity Injection Ever**](https://doi.org/10.1016/j.jmoneco.2019.01.020) <br>
